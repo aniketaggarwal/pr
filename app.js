@@ -2,4 +2,8 @@
 
 //something
 
+
 //comment
+
+console.log("Hello");
+
